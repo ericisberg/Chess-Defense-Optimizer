@@ -2,8 +2,9 @@
 ## Description
 This project aims to identify the top ten chess defenses used by "A Class" players based on their win percentage. The goal is to adopt the best defense into the project owner's games and observe the results. The project will visualize the best defense and its win percentage for each class.
 ## *Note
-Project is currently being renovated. It is being ported over from https://isberg1.wixsite.com/portfolio/projects
-Porject will include updates 5/7/2023
+Project is currently being renovated as of (5/7/2023).
+It is being ported over from https://isberg1.wixsite.com/portfolio/projects
+Project will include updates and visualizations constructed in Microsoft Power BI. 
 ## Installation
 
 ### Step 1. Downloading PostgreSQL
