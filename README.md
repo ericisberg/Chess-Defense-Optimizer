@@ -2,9 +2,9 @@
 ## Description
 This project aims to identify the top ten chess defenses used by "A Class" players based on their win percentage. The goal is to adopt the best defense into the project owner's games and observe the results. The project will visualize the best defense and its win percentage for each class.
 ## *Note
-Project is currently being renovated as of (5/7/2023).
-It is being ported over from https://isberg1.wixsite.com/portfolio/projects
-Project will include updates and visualizations constructed in Microsoft Power BI. 
+Project is currently being renovated as of (5/7/2023).<br>
+It is being ported over from https://isberg1.wixsite.com/portfolio/projects<br>
+Project will include updates and visualizations constructed in Microsoft Power BI.
 ## Installation
 
 ### Step 1. Downloading PostgreSQL
@@ -24,7 +24,6 @@ pg_config --version
 # Client version:
 psql --version
 ```
-
 ### Step 2. Connect to the PostgreSQL server
 Launch pgAdmin tool, a graphical tool for managing and developing PostgreSQL databases (Part of the initial download), and connect tge pgAdmin to the PostgreSQL server
 - Right-click on the Servers → Create → Server... option.
